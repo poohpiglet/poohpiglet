@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning a programar 
 - 🌱 I’m currently learning scratch javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me naiane.roube@escola.pr.gov.br
+- 📫 How to reach me [email](naiane.roube@escola.pr.gov.br)
 
 <!---iniciante
 poohpiglet/poohpiglet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
